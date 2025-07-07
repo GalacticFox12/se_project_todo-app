@@ -1,17 +1,20 @@
 # Simple Todo App
 
-Give a brief description of the project here. Feel free to give it a different name.
+The Todo App allows users to add or remove tasks at the click of a button.
 
 ## Functionality
 
-Give a more detailed explanation of the project and its functionality.
+Users of the Todo App can add their own tasks, delete them, apply due dates and then mark the checkbox as completed. The app allow users to add as many tasks as they want by clicking the "Add Todo" button.
 
 ## Technology
 
-Give a description of the technologies and techniques used. Pictures, GIFs, or screenshots that detail the project features are recommended.
+- Semantic HTML5
+- JavaScript
+- Flexbox
+- Modal
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- ADD LINK HERE
+- https://github.com/GalacticFox12/se_project_todo-app.git

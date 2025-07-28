@@ -33,7 +33,7 @@ const generateTodo = (data) => {
 };
 
 addTodoButton.addEventListener("click", () => {
-  openModal(addTodoPopupEl);
+  addTodoPopup.open();
 });
 
 const renderTodo = (item) => {

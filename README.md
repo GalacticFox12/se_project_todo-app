@@ -11,10 +11,11 @@ Users of the Todo App can add their own tasks, delete them, apply due dates and 
 - Semantic HTML5
 - JavaScript
 - Flexbox
-- Modal
+- Classes
+- Loose Coupling
 
 ## Deployment
 
 This project is deployed on GitHub Pages:
 
-- https://github.com/GalacticFox12/se_project_todo-app.git
+- https://galacticfox12.github.io/se_project_todo-app/

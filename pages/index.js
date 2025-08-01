@@ -30,6 +30,7 @@ const addTodoPopup = new PopupWithForm({
   },
 });
 
+addTodoPopup.handleOpenPopup(addTodoButton);
 addTodoPopup.setEventListeners();
 
 function handleCheck(completed) {
@@ -51,9 +52,9 @@ const generateTodo = (data) => {
   return todoElement;
 };
 
-addTodoButton.addEventListener("click", () => {
-  addTodoPopup.open();
-});
+// addTodoButton.addEventListener("click", () => {
+//   addTodoPopup.open();
+// });
 
 const renderTodo = (item) => {
   const todo = generateTodo(item);
